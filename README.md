@@ -1,2 +1,9 @@
 # AI-Disease-Detection-Project
-This project uses Python and machine learning techniques to detect diseases from medical datasets. It analyzes patient health parameters such as glucose, blood pressure, BMI, and age to predict diseases accurately. The system includes data preprocessing, analysis, visualization, model training, and prediction using AI algorithms.
+
+This project analyzes medical datasets to detect diseases using machine learning techniques. It checks health parameters like glucose level, blood pressure, BMI, and age to predict diseases accurately.
+
+Goal: Help in early disease detection and support healthcare decision-making using AI.
+
+Tools used: Python, Jupyter Notebook, Pandas, Matplotlib, Scikit-learn
+
+Note: This project is built using Python and machine learning. Future versions will include advanced AI models and improved prediction accuracy.
