@@ -24,15 +24,9 @@ Prediction Generation
 
 ## Project Screenshots
 
-### Home Page
-![Home Page](screenshots/home%20%20page%20.png)
-
-### Prediction Result
-![Prediction Result](screenshots/prediction%20and%20result(2).png)
-
-### About Page
-![About Page](screenshots/prediction%20and%20results%20(1).png)
-
+home.png
+prediction_result.png
+about_page.png
 
 
 ## Model Performance
