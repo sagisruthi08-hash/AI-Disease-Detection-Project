@@ -22,6 +22,19 @@ Prediction Generation
 
 ---
 
+## Project Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction_result.png)
+
+### About Page
+![About Page](screenshots/about_page.png)
+
+
+
 ## Model Performance
 
 ### Model Used:
